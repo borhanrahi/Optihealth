@@ -62,5 +62,3 @@ OptiHealth is a cutting-edge wellness platform designed specifically for entrepr
    ```
 
 4. **Open [http://localhost:3000](http://localhost:3000)**
-
-## 📁 Project Structure
